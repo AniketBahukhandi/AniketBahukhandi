@@ -23,12 +23,6 @@
 
 - 👯 I’m looking to collaborate on **machine learning and React projects**
 
-- 🤝 I’m looking for help with **Interview preparation Application**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AniketBahukhandi](https://github.com/AniketBahukhandi)
-
-- 💬 Ask me about **React and dsa**
-
 - 📫 How to reach me **aniketbahukhandi@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/AniketBahukhandi](https://github.com/AniketBahukhandi)
@@ -79,6 +73,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/AnkietBahukhandi/AniketBahukhandi/raw/output/github-contribution-grid-snake.svg"
-alt="snake"></center>
+  <img src="https://github.com/AniketBahukhandi/AniketBahukhandi/blob/output/github-contribution-grid-snake.svg"
+alt="snake">
 </p>
