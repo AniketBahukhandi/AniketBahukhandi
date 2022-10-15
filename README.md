@@ -1,26 +1,21 @@
-<h1 align="center">Hi 👋, I'm Aniket Bahukhandi</h1>
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>, I'm Aniket Bahukhandi</h1>
 <h3 align="center">A passionate full stack developer and enthusiastic coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketbahukhandi&label=Profile%20views&color=0e75b6&style=flat" alt="aniketbahukhandi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketbahukhandi" alt="aniketbahukhandi" /></a> </p>
-
+- 🌱 I’m currently learning *Java, Web Development, Data Structures & Algorithms.*
+- ⚡ Interested in *Gaming & Open Source Contributions.*
+- ❤️ Love creating *Small yet Interesting Projects!*
 - 🔭 I’m currently working on [Interview preparation Application](https://github.com/AniketBahukhandi/InterviewPrepApp.git)
-
 - 🌱 I’m currently learning **React,Node js, mongodb,kotlin**
-
 - 👯 I’m looking to collaborate on **machine learning and React projects**
-
 - 🤝 I’m looking for help with **Interview preparation Application**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AniketBahukhandi](https://github.com/AniketBahukhandi)
-
 - 💬 Ask me about **React and dsa**
-
 - 📫 How to reach me **aniketbahukhandi@gmail.com**
-
 - 📄 Know about my experiences [https://github.com/AniketBahukhandi](https://github.com/AniketBahukhandi)
-
 - ⚡ Fun fact **I think everyone can code**
 
 <h3 align="left">Connect with me:</h3>
@@ -42,4 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketbahukhandi&show_icons=true&locale=en" alt="aniketbahukhandi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketbahukhandi&" alt="aniketbahukhandi" /></p>
+
 [![@aniketbahukhandi's Holopin board](https://holopin.me/aniketbahukhandi)](https://holopin.io/@aniketbahukhandi)
