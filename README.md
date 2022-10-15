@@ -6,9 +6,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketbahukhandi" alt="aniketbahukhandi" /></a> </p>
 
+
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning *Java, Web Development, Data Structures & Algorithms.*
+
+<img align="right" alt="Coding" width="370" style="border-radius:5px" src="https://github.com/Ayroid/Ayroid/blob/main/20221002_231734.png">
 
 - ⚡ Interested in *Gaming & Open Source Contributions.*
 
@@ -31,6 +34,7 @@
 - 📄 Know about my experiences [https://github.com/AniketBahukhandi](https://github.com/AniketBahukhandi)
 
 - ⚡ Fun fact **I think everyone can code**
+
 
 ## Connect with me:
 <p align="center">
